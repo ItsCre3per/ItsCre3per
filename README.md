@@ -1,7 +1,7 @@
 ## Hi, I'm Creeper.
 - I love Minecraft Java, specifically an Avatar themed server called EtherealCraft.
 - I make ProjectKorra move addons, and plan to learn plugin coding soon.
-- YouTube content can be found below (subscribe if you're reading this)
+- YouTube content can be found below (subscribe if you're reading this lol)
 - Languages I know:
     - JavaScript
     - Java
