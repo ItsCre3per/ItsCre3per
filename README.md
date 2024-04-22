@@ -1,13 +1,12 @@
 ## Hi, I'm Creeper.
 - I love Minecraft Java Edition, specifically an Avatar themed server called EtherealCraft.
-- I make ProjectKorra (a plugin themed around Avatar: The Last Airbender) move addons and Minecraft Java plugins.
-- My YouTube channel can be found here ([subscribe](https://youtube.com/@itscre3per)  if you're reading this lol)
-- Languages I know:
+- I make ProjectKorra (a plugin themed around Avatar: The Last Airbender) move addons and Minecraft: Java Edition plugins.
+- My YouTube channel can be found here ([subscribe](https://youtube.com/@itscre3per)  if you're reading this :) )
+- I know:
     - Java
     - JavaScript
     - HTML & CSS
-    - Arduino (a modified C)
-    - Hopefully C++ in the future
+    - Arduino
   ### Come join EtherealCraft. IP is:
   ### play.etherealcraft.net
 \
